@@ -32,7 +32,7 @@ A HashSet provides O(1) average lookup time, making it ideal for checking whethe
 This approach is clean, readable, and efficient.
 
 ## Flow Chart
-
+![Flowchart](diagrams/flowchart.png)
 
  Time & Space Complexity
 Time Complexity: O(n)
